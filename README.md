@@ -1,6 +1,12 @@
-# Design Inspo
+# Muxe
 
-A small project used to help people get inspired with a design.
+pronounced like "muse".
+
+A small project used to help people get inspired to build UX. Hosts images of different
+eras of web design and different styles and components.
+
+Users can select tags to filter images. View images as a slideshow and quickly tap through
+with a keyboard.
 
 ## Phases
 
