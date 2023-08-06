@@ -7,7 +7,7 @@ export const Navbar = () => {
         <a href="#" className="flex items-center">
           <img src="/img/logo.png" className="h-8 mr-3" alt="Muise Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Muise
+            <span className="text-2xl font-light">m</span>UX<span className="text-2xl font-light">e</span>
           </span>
         </a>
         <button
