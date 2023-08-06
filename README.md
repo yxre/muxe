@@ -28,4 +28,3 @@ with a keyboard.
 * Next.js
 * Tailwindcss
 * Flowbite
-
