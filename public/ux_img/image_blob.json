@@ -1,4 +1,37 @@
 {
-  "tags": [],
-  "images": []
+  "tags": ["Drawer", "Button", "Amazon","Google", "Facebook"],
+  "images": [
+    {
+      "src": "/ux_img/amazon_drawer.png",
+      "tags": [],
+      "name": "Amazon Drawer"
+    },
+    {
+      "src": "/ux_img/amazon_home.png",
+      "tags": [],
+      "name": "Amazon Home"
+    },
+    {
+      "src": "/ux_img/amazon_search.png",
+      "tags": [],
+      "name": "Amazon Search"
+    },
+    {
+      "src": "/ux_img/chat_lingo_section.png",
+      "tags": [],
+      "name": "Chat Lingo Section"
+    },
+    {
+      "src": "/ux_img/chatlingo_community_invite.png",
+      "tags": [],
+      "name": "Chatlingo"
+    },
+    {
+      "src": "/ux_img/chatlingo_landing_page_splash.png",
+      "tags": [],
+      "name": "Amazon Drawer"
+    }
+  ],
+  "favoriteStyles": [],
+  "favoriteComponents": []
 }
